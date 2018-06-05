@@ -1,4 +1,4 @@
-#This proyect have been moved out the hands of Micro$oft
+# This proyect have been moved out the hands of Micro$oft
 
 [Upgrade from Windows : Free Software Fundation](https://www.fsf.org/windows)
 
